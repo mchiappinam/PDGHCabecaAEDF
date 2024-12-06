@@ -1,0 +1,5 @@
+#Quanto maior o numero, menor a chance de dropar a cabeca
+#Exemplos:
+#chance: 1000 = ele tem 1 chance em 1000 kills (0.1%)
+#chance: 0    = nao dropa ao matar (0%)
+chance: 150

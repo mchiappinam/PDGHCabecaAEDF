@@ -1,0 +1,9 @@
+name: PDGHCabeca
+main: me.mchiappinam.pdghcabeca.Main
+author: mchiappinam
+version: 1.0
+website: http://pdgh.com.br/
+commands:
+   head:
+      description: Info.
+      usage: /<command>
